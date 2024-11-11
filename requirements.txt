@@ -1,0 +1,9 @@
+h5py
+matplotlib==3.9.2
+mne==1.8.0
+numpy==1.26.4
+openpyxl
+pandas==2.2.2
+resampy==0.4.3
+scikit-learn
+scipy==1.13.1
